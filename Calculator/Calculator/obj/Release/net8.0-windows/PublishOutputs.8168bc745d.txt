@@ -1,0 +1,5 @@
+C:\Users\dbarh\Desktop\Calculator.exe
+C:\Users\dbarh\Desktop\Calculator.dll
+C:\Users\dbarh\Desktop\Calculator.deps.json
+C:\Users\dbarh\Desktop\Calculator.runtimeconfig.json
+C:\Users\dbarh\Desktop\Calculator.pdb
